@@ -8,3 +8,6 @@ FROM 你的镜像地址:版本标签#k8s.gcr.io/kube-apiserver:v1.17.3
 MAINTAINER hrz 972199518@qq.com
 ```
 理论上一个镜像就要执行上面一次
+
+# reference
+https://mp.weixin.qq.com/s/kf0SrktAze3bT7LcIveDYw
