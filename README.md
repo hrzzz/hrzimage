@@ -1,5 +1,5 @@
-# hrzimage
-this repo is for storage images that i can not download
+# hrz dodcker image
+this repo is to store images that i can not download
 # how to use
 1. 在仓库创建一个目录，目录中新建一个Dokckfile文件
 2. Dockerfile文件中 写入以下两行
