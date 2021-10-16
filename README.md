@@ -16,32 +16,8 @@ https://mp.weixin.qq.com/s/kf0SrktAze3bT7LcIveDYw
 
 
 ---
+> https://cr.console.aliyun.com/repository/cn-hangzhou/hrz-images
 
-基本信息
-仓库名称
-kueb-apiserver
-仓库地域
-华东1（杭州）
-仓库类型
-私有
-代码仓库
-https://github.com/hrzzz/hrzimage
-公网地址
-registry.cn-hangzhou.aliyuncs.com/hrz-images/kueb-apiserver
-registry.cn-hangzhou.aliyuncs.com/hrz-images/kueb-apiserver
-复制
-专有网络
-registry-vpc.cn-hangzhou.aliyuncs.com/hrz-images/kueb-apiserver
-registry-vpc.cn-hangzhou.aliyuncs.com/hrz-images/kueb-apiserver
-复制
-经典网络
-registry-internal.cn-hangzhou.aliyuncs.com/hrz-images/kueb-apiserver
-registry-internal.cn-hangzhou.aliyuncs.com/hrz-images/kueb-apiserver
-复制
-摘要
-kueb-apiserverkueb-apiserver
-操作指南
-制品描述
 1. 登录阿里云Docker Registry
 $ docker login --username=黄荣拯 registry.cn-hangzhou.aliyuncs.com
 用于登录的用户名为阿里云账号全名，密码为开通服务时设置的密码。
